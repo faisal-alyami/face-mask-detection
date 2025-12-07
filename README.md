@@ -207,16 +207,6 @@ To fully reproduce the project:
 
 All commands and code are provided step-by-step.
 
-## License
-
-This project is released under the MIT License.  
-
-
-## Notes
-
-- Ensure that all images and XML annotations have matching filenames.
-- Change `device="cpu"` to `device="0"` to train on GPU for faster results.
-- The notebook allows for flexibility in both training and inference pipelines.
 
  
 Date: December 2025
